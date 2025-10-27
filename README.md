@@ -1,6 +1,4 @@
 # Oxnazli
-# Hi there 👋
-
 
 
 ---
